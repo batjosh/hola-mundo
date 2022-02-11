@@ -1,2 +1,5 @@
 # hola-mundo
-Mi primer repositorio
+Mi primer repositorio.
+
+Autor: Joshua Meza
+Fecha: 10 de Febrero.
